@@ -1,0 +1,20 @@
+Device Credentials
+You registered your device to the organization. Add these credentials to the device to connect it to the platform. After the device is connected, you can navigate to view connection and event details.
+
+Organization ID
+zm8c4f
+Device Type
+iotdevice
+Device ID
+1001
+Authentication Method
+use-token-auth
+Authentication Token
+0123456789
+MQTT protocol
+
+
+api key 
+a-zm8c4f-netd3lwrkp
+authentication token
+C(-eu7BMPj+wSjkFdc
